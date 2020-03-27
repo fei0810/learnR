@@ -1,4 +1,4 @@
-# R 语言学习内容索引
+> R 语言学习内容索引
 
 ## [生物统计学与 R 极简手册](https://kaopubear.top/learnR/r_and_statistics_basic.html)
 
